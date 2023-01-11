@@ -1,7 +1,5 @@
 # huawei-vrp-notepad
 
-![Como o tema fica](https://raw.githubusercontent.com/luishmnascimento/huawei-vrp-notepad/master/TEMA%20NOTEPAD%2B%2B%20HUAWEI.png)
-
 Cores definida para o tema escuro, no tema claro não fica tão legal.
 
 1- Abra o editor Notepad++ 
@@ -12,3 +10,7 @@ Cores definida para o tema escuro, no tema claro não fica tão legal.
 6- Abra ou salve o arquivo com a extensão .cfg
 
 Divirta-se! :)
+
+Após linguem definida fica dessa forma abaixo
+
+![Como o tema fica](https://raw.githubusercontent.com/luishmnascimento/huawei-vrp-notepad/master/TEMA%20NOTEPAD%2B%2B%20HUAWEI.png)
