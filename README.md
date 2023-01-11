@@ -1,6 +1,6 @@
 # huawei-vrp-notepad
 
-(https://raw.githubusercontent.com/luishmnascimento/huawei-vrp-notepad/master/TEMA%20NOTEPAD%2B%2B%20HUAWEI.png)
+![Como o tema fica](https://raw.githubusercontent.com/luishmnascimento/huawei-vrp-notepad/master/TEMA%20NOTEPAD%2B%2B%20HUAWEI.png)
 
 Cores definida para o tema escuro, no tema claro não fica tão legal.
 
